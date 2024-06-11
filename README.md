@@ -1,5 +1,5 @@
 # FP-Pengenalan-Pola
-NAMA KELOMPOK:
+ANGGOTA KELOMPOK
 | No | Nama | NIM | Kelas |
 | --- | --- | --- | --- |
 | 1. | Virgie Yunita Salsabil | 21110022 | S1SD02A |
