@@ -1,4 +1,4 @@
-# Implementasi Klasifikasi Citra Karang Menggunakan Convolutional Neural Network 
+# Klasifikasi Citra Karang Menggunakan Convolutional Neural Network (CNN) 
 ANGGOTA KELOMPOK
 | No | Nama | NIM | Kelas |
 | --- | --- | --- | --- |
